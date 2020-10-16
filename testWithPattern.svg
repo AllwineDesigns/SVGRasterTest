@@ -1,0 +1,13 @@
+<svg width="18in" height="12in" viewBox="0 0 1800 1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <pattern id="Image" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+    <image x="0" y="0" width="200" height="200" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGElEQVQYV2NkYGD4////fwZGEMnIyMgAAEvqB/6wfXLSAAAAAElFTkSuQmCC" image-rendering="optimizeQuality"/>
+  </pattern>
+</defs>
+<g>
+  <rect x="0" y="0" width="100" height="100" fill="url(#Image)" stroke="none"/>
+  <rect x="100" y="0" width="100" height="100" fill="url(#Image)" stroke="none"/>
+  <rect x="100" y="100" width="100" height="100" fill="url(#Image)" stroke="none"/>
+  <rect x="0" y="100" width="100" height="100" fill="url(#Image)" stroke="none"/>
+</g>
+</svg>
