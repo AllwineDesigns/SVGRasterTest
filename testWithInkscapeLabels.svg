@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18in"
+   height="12in"
+   viewBox="0 0 1800 1200"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="test.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1864"
+     inkscape:window-height="1026"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="0.75"
+     inkscape:cx="818.95468"
+     inkscape:cy="783.30745"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg30" />
+  <g
+     transform="translate(200, 200)"
+     id="g4">
+    <image
+       x="0"
+       y="0"
+       width="200"
+       height="200"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGElEQVQYV2NkYGD4////fwZGEMnIyMgAAEvqB/6wfXLSAAAAAElFTkSuQmCC"
+       image-rendering="optimizeQuality"
+       id="image2" />
+  </g>
+  <g
+     transform="translate(500, 200)"
+     id="g8">
+    <image
+       x="0"
+       y="0"
+       width="200"
+       height="200"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGElEQVQYV2NkYGD4////fwZGEMnIyMgAAEvqB/6wfXLSAAAAAElFTkSuQmCC"
+       image-rendering="optimizeSpeed"
+       id="image6" />
+  </g>
+  <g
+     transform="translate(800, 200)"
+     id="g14">
+    <rect
+       x="0"
+       y="0"
+       width="100"
+       height="100"
+       fill="#000000"
+       stroke="none"
+       id="rect10" />
+    <rect
+       x="100"
+       y="100"
+       width="100"
+       height="100"
+       fill="#000000"
+       stroke="none"
+       id="rect12" />
+  </g>
+  <g
+     transform="translate(1100, 200)"
+     id="g18">
+    <image
+       x="0"
+       y="0"
+       width="200"
+       height="200"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGElEQVQYV2NkYGD4////fwZGEMnIyMgAAEvqB/6wfXLSAAAAAElFTkSuQmCC"
+       image-rendering="pixelated"
+       id="image16" />
+  </g>
+  <g
+     transform="translate(1400, 200)"
+     id="g28">
+    <image
+       x="0"
+       y="0"
+       width="100"
+       height="100"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NgYGD4DwABBAEAcCBlCwAAAABJRU5ErkJggg=="
+       id="image20" />
+    <image
+       x="100"
+       y="0"
+       width="100"
+       height="100"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+       id="image22" />
+    <image
+       x="100"
+       y="100"
+       width="100"
+       height="100"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NgYGD4DwABBAEAcCBlCwAAAABJRU5ErkJggg=="
+       id="image24" />
+    <image
+       x="0"
+       y="100"
+       width="100"
+       height="100"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg=="
+       id="image26" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0625px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04166675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="294.44446"
+     y="456.94449"
+     id="text845"><tspan
+       sodipodi:role="line"
+       id="tspan843"
+       x="294.44446"
+       y="456.94449"
+       style="text-align:center;text-anchor:middle;stroke-width:1.04166675px">optimizeQuality</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0625px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04166675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="606.94446"
+     y="455.55557"
+     id="text849"><tspan
+       sodipodi:role="line"
+       id="tspan847"
+       x="606.94446"
+       y="455.55557"
+       style="stroke-width:1.04166675px">optimizeSpeed</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0625px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04166675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="898.61121"
+     y="455.55554"
+     id="text853"><tspan
+       sodipodi:role="line"
+       id="tspan851"
+       x="898.61121"
+       y="455.55554"
+       style="stroke-width:1.04166675px">SVG Rects</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0625px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04166675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1206.9446"
+     y="451.38892"
+     id="text857"><tspan
+       sodipodi:role="line"
+       id="tspan855"
+       x="1206.9446"
+       y="451.38892"
+       style="stroke-width:1.04166675px">pixelated</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0625px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04166675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1513.8889"
+     y="441.66666"
+     id="text861"><tspan
+       sodipodi:role="line"
+       id="tspan859"
+       x="1519.3058"
+       y="441.66666"
+       style="stroke-width:1.04166675px">4 separate single </tspan><tspan
+       sodipodi:role="line"
+       x="1513.8889"
+       y="490.49478"
+       style="stroke-width:1.04166675px"
+       id="tspan863">pixel images</tspan></text>
+</svg>
